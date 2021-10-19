@@ -43,8 +43,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/KANNANSIR/bot_v2
+cd bot_v2
 npm install
 node main
 ```
