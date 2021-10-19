@@ -53,8 +53,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/KANNANSIR/bot_v2
+cd bot_v2
 npm install
 node main
 ```
